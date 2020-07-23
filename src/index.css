@@ -1,0 +1,43 @@
+body {
+}
+
+.container {
+    border: 1px solid #ccc;
+    width: 500px;
+    height: auto;
+    min-height: 100px;
+    font: 14px Arial;
+    cursor: text;
+}
+
+.input-box {
+    float: left;
+    padding: 3px 6px;
+    margin: 3px;
+}
+
+.input-box input {
+    border: 0px;
+    outline: none;
+}
+
+.token {
+    float: left;
+    padding: 3px 6px;
+    margin: 3px;
+    display: inline-block;
+    border-radius: 10px;
+    background: #e4ebfc;
+}
+
+.token span:nth-child(1) {
+}
+
+.token span:nth-child(2) {
+    cursor: pointer;
+    padding: 0px 5px;
+}
+
+#clear {
+    clear: both;
+}
