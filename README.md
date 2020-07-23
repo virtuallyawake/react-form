@@ -1,3 +1,6 @@
+Rewriting https://github.com/ankitduseja/react-email-token-input
+Still some issues to get it to run
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
